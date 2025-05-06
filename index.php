@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--pagina principal donde se visualizaran los posts al crearlos-->
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -63,7 +64,7 @@ mysqli_close($conexion);
     </div>
     </footer>
 
-    <script src="../../assets/js/CMS/script.js"></script>
+    <script src="assets/js/script.js"></script>
 </body>
 
 </html>

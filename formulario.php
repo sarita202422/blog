@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--formulario para crear publicaciones-->
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -16,6 +17,7 @@
     </header>
 
     <main>
+        <!--seccion para crear un post-->
         <section id="formulario-post">
             <h2>Crear nueva publicación</h2>
             <form action="crear_post.php" method="POST">
@@ -29,7 +31,7 @@
             </form>
         </section>
     </main>
-
+    <!--footer con informacion de contacto-->
     <footer id="contacto">
     <div class="footer-contacto">
         <h3>Contáctame</h3>
